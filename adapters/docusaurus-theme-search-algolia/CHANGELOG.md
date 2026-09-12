@@ -1,5 +1,26 @@
 # @docsearch/docusaurus-adapter
 
+## 5.1.0
+
+### Patch Changes
+
+- Updated dependencies [977cf17]
+- Updated dependencies [3914a42]
+  - @docsearch/react@5.1.0
+  - @docsearch/modal@5.1.0
+  - @docsearch/sidepanel@5.1.0
+  - @docsearch/core@5.1.0
+
+## 5.0.5
+
+### Patch Changes
+
+- 472239b: Fix workspace definitions in package.json
+  - @docsearch/core@5.0.5
+  - @docsearch/modal@5.0.5
+  - @docsearch/react@5.0.5
+  - @docsearch/sidepanel@5.0.5
+
 ## 5.0.4
 
 ### Patch Changes
